@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milan44i
 - 👀 I’m interested in Blockchain technology and Web3
-- 🌱 I’m currently learning React.js and Node.js
+- 🌱 I’m currently learning mastering Javascript, and after that I will tackle React.js and Node.js
 - 💞️ I’m looking to collaborate on any Blockchain related project
 - 📫 How to reach me: mln6stankovic@gmail.com
 
