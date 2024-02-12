@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning/repeating **React, Design system, Design patterns, Algorithms, OOP, C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/milan44i?tab=repositories&type=source](https://github.com/milan44i?tab=repositories&type=source)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/milan44i?tab=repositories&type=source)
 
 - 📫 How to reach me **mln6stankovic@gmail.com**
 
