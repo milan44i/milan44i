@@ -37,6 +37,6 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milan44i&show_icons=true&theme=dark&title_color=34d399&text_color=323232&bg_color=f5f5f5&locale=en&layout=compact" alt="milan44i" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milan44i&show_icons=true&theme=dark&title_color=10b981&text_color=323232&bg_color=f5f5f5&locale=en&layout=compact" alt="milan44i" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milan44i&show_icons=true&title_color=34d399&text_color=323232&bg_color=f5f5f5&locale=en" alt="milan44i" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milan44i&show_icons=true&title_color=10b981&text_color=323232&bg_color=f5f5f5&locale=en" alt="milan44i" /></p>
