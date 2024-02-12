@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mln6stankovic@gmail.com**
 
-- 📄 Know about my experiences [https://www.google.com/](https://www.google.com/)
+- 📄 Know about my experiences [My CV](https://www.google.com/)
 
 - ⚡ Fun fact **Avocados are not vegetables 🥑**
 
