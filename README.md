@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" bg_color=f5f5f5> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -37,6 +37,6 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milan44i&show_icons=true&theme=light&title_color=10b981&text_color=323232&bg_color=f5f5f5&locale=en&layout=compact" alt="milan44i" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milan44i&show_icons=true&theme=dark&title_color=10b981&text_color=323232&bg_color=f5f5f5&locale=en&layout=compact" alt="milan44i" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milan44i&show_icons=true&title_color=10b981&text_color=323232&bg_color=f5f5f5&locale=en" alt="milan44i" /></p>
