@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
-<h3 align="center">A passionate Frontend Engineer from Serbia</h3>
+<h3 align="center">A passionate Software Engineer from Serbia</h3>
 
 - 🔭 I’m currently working as a **Software Engineer!**
 
