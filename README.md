@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working as a **Software Engineer!**
 
-- 🌱 I’m currently learning/repeating **React, NEXT, Design system, Algorithms, OOP, C#**
+- 🌱 I’m currently learning **Backend, Node, NestJS and polishing my git skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/milan44i?tab=repositories&sort=stargazers&type=source](https://github.com/milan44i?tab=repositories&sort=stargazers&type=source)
 
 - 📫 How to reach me **mln6stankovic@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1mPISkN38ftzIFhYoQl3x3Ra-aq68UI3l/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1qpeP4AU_fcaI4ENqWNu1PgC9GlHjxzUx/view?usp=drive_link)
 
 - ⚡ Fun fact **Avocados are not vegetables 🥑**
 
