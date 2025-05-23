@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer!**
 
-- 🌱 I’m currently learning **Backend, Node, NestJS and polishing my git skills**
+- 🌱 I’m currently learning **Lua, GO and polishing my Vue skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/milan44i?tab=repositories&sort=stargazers&type=source](https://github.com/milan44i?tab=repositories&sort=stargazers&type=source)
 
