@@ -1,3 +1,5 @@
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/590566a5-d07f-486c-b935-2c1152308561" />
+
 <h1 align="center">Hi 👋, I'm Milan</h1>
 <h3 align="center">A passionate Software Engineer from Serbia</h3>
 
