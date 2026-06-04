@@ -1,51 +1,80 @@
 <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/590566a5-d07f-486c-b935-2c1152308561" />
 
 <h1 align="center">Hi 👋, I'm Milan</h1>
-<h3 align="center">A passionate Frontend Engineer from Serbia</h3>
+<h3 align="center">Frontend Engineer · Vue · React · TypeScript · AI-assisted development</h3>
 
-- 🔭 I’m currently working as a **Frontend Engineer!**
-
-- 🌱 I’m currently learning **System architecture and design**
-
-- 👨‍💻 All of my projects are available at [https://github.com/milan44i?tab=repositories&sort=stargazers&type=source](https://github.com/milan44i?tab=repositories&sort=stargazers&type=source)
-
-- 📫 How to reach me **mln6stankovic@gmail.com**
-
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1qpeP4AU_fcaI4ENqWNu1PgC9GlHjxzUx/view?usp=drive_link)
-
-- ⚡ Fun fact **Avocados are not vegetables 🥑**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/milan44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan44" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://milan44.dev"><img src="https://img.shields.io/badge/Portfolio-milan44.dev-08090b?style=for-the-badge&logo=vercel&logoColor=c6f24e" alt="Portfolio" /></a>
+  <a href="https://gamescore.cards"><img src="https://img.shields.io/badge/Live_product-GameScore-08090b?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="GameScore" /></a>
+  <a href="https://linkedin.com/in/milan44"><img src="https://img.shields.io/badge/LinkedIn-08090b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@milan44"><img src="https://img.shields.io/badge/Medium-08090b?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:mln6stankovic@gmail.com"><img src="https://img.shields.io/badge/Email-08090b?style=for-the-badge&logo=gmail&logoColor=c6f24e" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" textDecoration="none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"     height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1200/1*rcKVwmwg1wZlroN8v1nBeA.jpeg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" textDecoration="none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milan44i&show_icons=true&theme=dark&title_color=10b981&text_color=323232&bg_color=f5f5f5&locale=en&layout=compact" alt="milan44i" /></p>
+Frontend engineer based in **Belgrade**, building clean, scalable, high-performance web apps. I care about component architecture, measurable performance, and interfaces that hold up under real-world complexity — and my edge is the **AI-assisted workflow** I engineered around the work.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milan44i&show_icons=true&title_color=10b981&text_color=323232&bg_color=f5f5f5&locale=en" alt="milan44i" /></p>
+- 🛠️ &nbsp;Frontend Engineer at **LotusFlare** — analyst-facing UIs for carrier-grade telecom operators serving millions of subscribers.
+- 🚀 &nbsp;Shipped **[GameScore](https://gamescore.cards)** solo — an offline-first PWA with 100k+ BoardGameGeek titles & a paid Pro tier, built with Claude Code.
+- 🤖 &nbsp;My differentiator is **AI-assisted development** — context engineering, agentic orchestration & custom skills. The system is open-sourced in **[claude-setup](https://github.com/milan44i/claude-setup)**.
+- 🌐 &nbsp;Portfolio & case studies → **[milan44.dev](https://milan44.dev)** · Resume → **[milan44.dev/resume](https://milan44.dev/resume)**
+- 📫 &nbsp;Reach me → **mln6stankovic@gmail.com** · open to remote frontend roles.
+- ⚡ &nbsp;Fun fact — **Avocados are not vegetables 🥑**
+
+### 🧩 Selected impact
+
+| | |
+|---|---|
+| **80%** faster portal load (1.2 min → 14 s) | **45%** complexity cut on a 2,000-line refactor, zero regressions |
+| **53%** smaller main bundle | **100k+** titles in a solo-shipped production PWA |
+| **500+** files restandardized | **2.5+ yrs** of daily AI-assisted development |
+
+### 🧰 Tech
+
+**Languages**
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0b0d10?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0d10?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0b0d10?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0b0d10?style=flat-square&logo=css&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-0b0d10?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**Frameworks & UI**
+&nbsp;
+![Vue](https://img.shields.io/badge/Vue_3-0b0d10?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-0b0d10?style=flat-square&logo=nuxt&logoColor=00DC82)
+![React](https://img.shields.io/badge/React-0b0d10?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0b0d10?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0b0d10?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Tailwind](https://img.shields.io/badge/Tailwind-0b0d10?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Sass](https://img.shields.io/badge/SCSS-0b0d10?style=flat-square&logo=sass&logoColor=CC6699)
+
+**State & Data**
+&nbsp;
+![Pinia](https://img.shields.io/badge/Pinia-0b0d10?style=flat-square&logo=pinia&logoColor=FFD859)
+![Vuex](https://img.shields.io/badge/Vuex-0b0d10?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-0b0d10?style=flat-square&logo=redux&logoColor=764ABC)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-0b0d10?style=flat-square&logo=reactquery&logoColor=FF4154)
+
+**Tooling & Infra**
+&nbsp;
+![Vite](https://img.shields.io/badge/Vite-0b0d10?style=flat-square&logo=vite&logoColor=646CFF)
+![Nx](https://img.shields.io/badge/Nx-0b0d10?style=flat-square&logo=nx&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-0b0d10?style=flat-square&logo=storybook&logoColor=FF4785)
+![Vitest](https://img.shields.io/badge/Vitest-0b0d10?style=flat-square&logo=vitest&logoColor=6E9F18)
+![Docker](https://img.shields.io/badge/Docker-0b0d10?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0b0d10?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0b0d10?style=flat-square&logo=cloudflare&logoColor=F38020)
+![AWS](https://img.shields.io/badge/AWS-0b0d10?style=flat-square)
+![Git](https://img.shields.io/badge/Git-0b0d10?style=flat-square&logo=git&logoColor=F05032)
+
+**AI engineering**
+&nbsp;
+![Claude Code](https://img.shields.io/badge/Claude_Code-0b0d10?style=flat-square&logo=anthropic&logoColor=D97757)
+![Context engineering](https://img.shields.io/badge/Context_engineering-0b0d10?style=flat-square)
+![Agentic workflows](https://img.shields.io/badge/Agentic_workflows-0b0d10?style=flat-square)
+
+### 📍 Currently learning
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67000768fb4be684dbb2b81f?variant=dark&roadmaps=backend%2Csoftware-design-architecture%2Cdocker%2Cnodejs" alt="roadmap.sh"/></a>
