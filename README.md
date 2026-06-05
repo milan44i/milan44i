@@ -8,8 +8,9 @@
   <a href="https://gamescore.cards"><img src="https://img.shields.io/badge/Live_product-GameScore-08090b?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="GameScore" /></a>
   <a href="https://linkedin.com/in/milan44"><img src="https://img.shields.io/badge/LinkedIn-08090b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@milan44"><img src="https://img.shields.io/badge/Medium-08090b?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="mailto:mln6stankovic@gmail.com"><img src="https://img.shields.io/badge/Email-08090b?style=for-the-badge&logo=gmail&logoColor=c6f24e" alt="Email" /></a>
 </p>
+
+<a href="mailto:mln6stankovic@gmail.com"><img src="https://img.shields.io/badge/Email-08090b?style=for-the-badge&logo=gmail&logoColor=c6f24e" alt="Email" /></a>
 
 ---
 
