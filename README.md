@@ -16,7 +16,7 @@
 Frontend engineer based in **Belgrade**, building clean, scalable, high-performance web apps. I care about component architecture, measurable performance, and interfaces that hold up under real-world complexity — and my edge is the **AI-assisted workflow** I engineered around the work.
 
 - 🛠️ &nbsp;Frontend Engineer at **LotusFlare** — analyst-facing UIs for carrier-grade telecom operators serving millions of subscribers.
-- 🚀 &nbsp;Shipped **[GameScore](https://gamescore.cards)** solo — an offline-first PWA with 100k+ BoardGameGeek titles & a paid Pro tier, built with Claude Code.
+- 🚀 &nbsp;Shipped **[GameScore](https://gamescore.cards)** solo — an offline-first PWA (Nuxt 4 · Vercel) with BoardGameGeek search & a paid €4.99 Pro tier, built with Claude Code.
 - 🤖 &nbsp;My differentiator is **AI-assisted development** — context engineering, agentic orchestration & custom skills. The system is open-sourced in **[claude-setup](https://github.com/milan44i/claude-setup)**.
 - 🌐 &nbsp;Portfolio & case studies → **[milan44.dev](https://milan44.dev)** · Resume → **[milan44.dev/resume](https://milan44.dev/resume)**
 - 📫 &nbsp;Reach me → **mln6stankovic@gmail.com** · open to remote frontend roles.
@@ -26,7 +26,7 @@ Frontend engineer based in **Belgrade**, building clean, scalable, high-performa
 | | |
 |---|---|
 | **80%** faster portal load (1.2 min → 14 s) | **45%** complexity cut on a 2,000-line refactor, zero regressions |
-| **53%** smaller main bundle | **100k+** titles in a solo-shipped production PWA |
+| **53%** smaller main bundle | **Paid Pro tier** shipped solo (€4.99, Lemon Squeezy) |
 | **500+** files restandardized | **2.5+ yrs** of daily AI-assisted development |
 
 ### 🧰 Tech
@@ -64,7 +64,7 @@ Frontend engineer based in **Belgrade**, building clean, scalable, high-performa
 ![Vitest](https://img.shields.io/badge/Vitest-0b0d10?style=flat-square&logo=vitest&logoColor=6E9F18)
 ![Docker](https://img.shields.io/badge/Docker-0b0d10?style=flat-square&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0b0d10?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0b0d10?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Vercel](https://img.shields.io/badge/Vercel-0b0d10?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0b0d10?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-0b0d10?style=flat-square&logo=git&logoColor=F05032)
 
