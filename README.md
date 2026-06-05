@@ -20,7 +20,6 @@ Frontend engineer based in **Belgrade**, building clean, scalable, high-performa
 - 🤖 &nbsp;My differentiator is **AI-assisted development** — context engineering, agentic orchestration & custom skills. The system is open-sourced in **[claude-setup](https://github.com/milan44i/claude-setup)**.
 - 🌐 &nbsp;Portfolio & case studies → **[milan44.dev](https://milan44.dev)** · Resume → **[milan44.dev/resume](https://milan44.dev/resume)**
 - 📫 &nbsp;Reach me → **mln6stankovic@gmail.com** · open to remote frontend roles.
-- ⚡ &nbsp;Fun fact — **Avocados are not vegetables 🥑**
 
 ### 🧩 Selected impact
 
